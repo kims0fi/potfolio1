@@ -1,0 +1,37 @@
+body {
+    font-family: sans-serif;
+    background-color: #B0B3FF;
+}
+nav a {
+    color: black;
+    border: 3px double #21246E ;
+    padding: 4px;
+    border-radius: 10px;
+    text-decoration: none;
+}
+header a {
+    color: black;
+    border: 3px double #21246E ;
+    padding: 4px;
+    border-radius: 10px;
+    text-decoration: none;
+}
+h1 {
+    color: #21246E;
+    text-align: center;
+}
+header {
+    padding: 10px;
+    background-color:#6C70D3;
+}
+nav {
+    padding: 10px;
+    background-color: #6C70D3;
+}
+img {
+    border: #21246E 4px dashed;
+    text-align: center;
+    margin: 15px;
+    padding: 5px;
+    border-radius: 20px;
+}
